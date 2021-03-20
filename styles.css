@@ -6,6 +6,10 @@
 img{
     border-radius: 2%;
 }
+#head_image{
+  margin-top: 2%;
+  width: 70%;
+}
 .card {
     margin: 3.5%;
     float: left;
