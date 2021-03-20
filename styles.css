@@ -6,9 +6,14 @@
 img{
     border-radius: 2%;
 }
+
+#explore{
+  color: white;
+}
+
 #head_image{
   margin-top: 2%;
-  width: 70%;
+  width: 100%;
 }
 .card {
     margin: 3.5%;
